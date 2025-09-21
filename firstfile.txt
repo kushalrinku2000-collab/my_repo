@@ -1,6 +1,3 @@
 this is my first file
 
-
-
-"git acc - "ghp_FBXkMqGJg80N7IQHHU8p0hlX78QEeI1d2y"
-"eB"
+"Hello World"
